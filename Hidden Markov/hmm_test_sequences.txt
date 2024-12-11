@@ -1,0 +1,300 @@
+Emission Sequence: sunny cloudy sunny rainy rainy
+State Sequence: S1 S1 S1 S2 S1
+
+Emission Sequence: cloudy sunny sunny cloudy cloudy
+State Sequence: S2 S1 S2 S2 S2
+
+Emission Sequence: cloudy rainy rainy sunny sunny
+State Sequence: S1 S2 S1 S2 S3
+
+Emission Sequence: cloudy rainy rainy cloudy cloudy
+State Sequence: S2 S1 S3 S1 S3
+
+Emission Sequence: sunny cloudy rainy sunny cloudy
+State Sequence: S1 S1 S2 S1 S2
+
+Emission Sequence: cloudy cloudy cloudy rainy cloudy
+State Sequence: S2 S3 S2 S3 S2
+
+Emission Sequence: cloudy rainy rainy cloudy sunny
+State Sequence: S1 S3 S1 S3 S3
+
+Emission Sequence: rainy cloudy rainy sunny sunny
+State Sequence: S3 S2 S1 S3 S2
+
+Emission Sequence: rainy rainy rainy sunny sunny
+State Sequence: S1 S2 S1 S2 S1
+
+Emission Sequence: sunny sunny sunny sunny cloudy
+State Sequence: S1 S2 S2 S3 S3
+
+Emission Sequence: sunny cloudy rainy sunny rainy
+State Sequence: S1 S3 S3 S3 S2
+
+Emission Sequence: cloudy rainy cloudy sunny cloudy
+State Sequence: S1 S3 S1 S2 S3
+
+Emission Sequence: rainy cloudy cloudy cloudy sunny
+State Sequence: S2 S2 S1 S3 S1
+
+Emission Sequence: rainy cloudy cloudy rainy rainy
+State Sequence: S3 S2 S3 S3 S1
+
+Emission Sequence: rainy sunny rainy sunny rainy
+State Sequence: S1 S3 S2 S1 S3
+
+Emission Sequence: cloudy sunny sunny sunny rainy
+State Sequence: S1 S2 S1 S2 S3
+
+Emission Sequence: rainy sunny rainy sunny cloudy
+State Sequence: S1 S2 S3 S3 S3
+
+Emission Sequence: cloudy cloudy sunny sunny cloudy
+State Sequence: S1 S2 S1 S2 S2
+
+Emission Sequence: rainy cloudy cloudy rainy cloudy
+State Sequence: S2 S1 S2 S3 S1
+
+Emission Sequence: sunny sunny rainy sunny cloudy
+State Sequence: S1 S3 S3 S2 S3
+
+Emission Sequence: rainy rainy cloudy sunny cloudy
+State Sequence: S1 S2 S3 S3 S1
+
+Emission Sequence: sunny sunny sunny rainy sunny
+State Sequence: S1 S2 S1 S2 S2
+
+Emission Sequence: cloudy cloudy cloudy sunny rainy
+State Sequence: S1 S1 S2 S2 S3
+
+Emission Sequence: rainy sunny rainy cloudy cloudy
+State Sequence: S3 S3 S1 S2 S3
+
+Emission Sequence: cloudy cloudy sunny cloudy cloudy
+State Sequence: S1 S2 S1 S2 S3
+
+Emission Sequence: sunny cloudy sunny rainy cloudy
+State Sequence: S1 S2 S1 S2 S1
+
+Emission Sequence: cloudy rainy sunny sunny rainy
+State Sequence: S2 S3 S1 S1 S2
+
+Emission Sequence: cloudy cloudy sunny cloudy cloudy
+State Sequence: S2 S3 S3 S1 S1
+
+Emission Sequence: rainy cloudy cloudy cloudy rainy
+State Sequence: S2 S1 S2 S2 S2
+
+Emission Sequence: rainy sunny sunny sunny rainy
+State Sequence: S2 S3 S3 S1 S3
+
+Emission Sequence: sunny rainy rainy cloudy cloudy
+State Sequence: S2 S3 S3 S1 S1
+
+Emission Sequence: rainy rainy sunny sunny rainy
+State Sequence: S2 S2 S1 S3 S1
+
+Emission Sequence: sunny rainy sunny cloudy sunny
+State Sequence: S2 S1 S2 S1 S3
+
+Emission Sequence: cloudy sunny cloudy cloudy sunny
+State Sequence: S2 S3 S3 S3 S3
+
+Emission Sequence: rainy cloudy cloudy sunny rainy
+State Sequence: S2 S1 S2 S1 S3
+
+Emission Sequence: rainy rainy rainy sunny cloudy
+State Sequence: S2 S3 S2 S1 S2
+
+Emission Sequence: sunny sunny rainy cloudy sunny
+State Sequence: S1 S2 S1 S1 S3
+
+Emission Sequence: sunny sunny rainy cloudy cloudy
+State Sequence: S3 S1 S1 S2 S1
+
+Emission Sequence: rainy cloudy cloudy sunny sunny
+State Sequence: S2 S1 S2 S3 S1
+
+Emission Sequence: rainy sunny rainy cloudy sunny
+State Sequence: S2 S2 S1 S3 S2
+
+Emission Sequence: rainy sunny sunny cloudy sunny
+State Sequence: S2 S2 S1 S2 S2
+
+Emission Sequence: rainy sunny cloudy sunny sunny
+State Sequence: S2 S3 S1 S1 S2
+
+Emission Sequence: rainy sunny cloudy rainy sunny
+State Sequence: S2 S1 S2 S3 S2
+
+Emission Sequence: cloudy sunny cloudy cloudy cloudy
+State Sequence: S3 S2 S3 S2 S1
+
+Emission Sequence: rainy sunny cloudy rainy cloudy
+State Sequence: S2 S1 S3 S2 S1
+
+Emission Sequence: rainy sunny rainy sunny rainy
+State Sequence: S2 S1 S2 S1 S2
+
+Emission Sequence: sunny sunny sunny rainy rainy
+State Sequence: S2 S2 S2 S1 S3
+
+Emission Sequence: sunny cloudy rainy cloudy cloudy
+State Sequence: S2 S1 S3 S1 S2
+
+Emission Sequence: rainy rainy cloudy rainy sunny
+State Sequence: S1 S2 S2 S1 S3
+
+Emission Sequence: rainy sunny rainy cloudy sunny
+State Sequence: S2 S1 S1 S3 S3
+
+Emission Sequence: cloudy sunny cloudy sunny sunny
+State Sequence: S3 S1 S2 S2 S3
+
+Emission Sequence: rainy rainy rainy rainy rainy
+State Sequence: S2 S3 S2 S1 S1
+
+Emission Sequence: rainy cloudy cloudy rainy rainy
+State Sequence: S2 S3 S1 S3 S2
+
+Emission Sequence: cloudy sunny sunny cloudy rainy
+State Sequence: S2 S3 S2 S1 S2
+
+Emission Sequence: cloudy rainy cloudy sunny sunny
+State Sequence: S2 S3 S3 S1 S3
+
+Emission Sequence: rainy rainy sunny sunny cloudy
+State Sequence: S3 S2 S3 S3 S3
+
+Emission Sequence: cloudy sunny cloudy sunny rainy
+State Sequence: S2 S3 S3 S2 S2
+
+Emission Sequence: sunny cloudy cloudy cloudy sunny
+State Sequence: S3 S2 S2 S2 S1
+
+Emission Sequence: sunny rainy rainy sunny sunny
+State Sequence: S2 S1 S2 S3 S2
+
+Emission Sequence: cloudy cloudy sunny rainy rainy
+State Sequence: S2 S1 S3 S3 S1
+
+Emission Sequence: sunny cloudy cloudy rainy sunny
+State Sequence: S1 S2 S2 S3 S1
+
+Emission Sequence: cloudy rainy sunny cloudy cloudy
+State Sequence: S2 S2 S3 S2 S1
+
+Emission Sequence: cloudy cloudy rainy cloudy cloudy
+State Sequence: S1 S2 S1 S2 S1
+
+Emission Sequence: rainy cloudy sunny cloudy rainy
+State Sequence: S1 S2 S1 S1 S2
+
+Emission Sequence: cloudy cloudy rainy cloudy rainy
+State Sequence: S2 S2 S3 S1 S2
+
+Emission Sequence: cloudy cloudy sunny sunny rainy
+State Sequence: S2 S1 S2 S3 S3
+
+Emission Sequence: cloudy rainy rainy rainy sunny
+State Sequence: S2 S1 S3 S1 S2
+
+Emission Sequence: cloudy cloudy cloudy rainy cloudy
+State Sequence: S3 S3 S3 S3 S2
+
+Emission Sequence: cloudy rainy cloudy sunny rainy
+State Sequence: S3 S3 S3 S1 S2
+
+Emission Sequence: rainy cloudy rainy rainy rainy
+State Sequence: S2 S3 S1 S2 S2
+
+Emission Sequence: rainy sunny cloudy cloudy rainy
+State Sequence: S2 S1 S3 S1 S3
+
+Emission Sequence: cloudy rainy rainy rainy rainy
+State Sequence: S1 S2 S3 S2 S2
+
+Emission Sequence: rainy cloudy rainy cloudy rainy
+State Sequence: S2 S2 S1 S3 S2
+
+Emission Sequence: cloudy cloudy cloudy cloudy sunny
+State Sequence: S3 S3 S1 S3 S1
+
+Emission Sequence: rainy sunny sunny sunny rainy
+State Sequence: S2 S1 S3 S3 S1
+
+Emission Sequence: sunny sunny rainy rainy cloudy
+State Sequence: S1 S2 S2 S3 S3
+
+Emission Sequence: sunny rainy sunny cloudy sunny
+State Sequence: S1 S2 S1 S3 S3
+
+Emission Sequence: rainy rainy cloudy sunny rainy
+State Sequence: S1 S2 S1 S3 S1
+
+Emission Sequence: cloudy cloudy cloudy sunny sunny
+State Sequence: S2 S1 S2 S1 S2
+
+Emission Sequence: cloudy sunny rainy rainy cloudy
+State Sequence: S2 S2 S2 S1 S2
+
+Emission Sequence: rainy sunny cloudy sunny rainy
+State Sequence: S2 S3 S1 S3 S3
+
+Emission Sequence: cloudy sunny cloudy sunny rainy
+State Sequence: S2 S2 S3 S1 S2
+
+Emission Sequence: rainy rainy rainy sunny sunny
+State Sequence: S2 S1 S2 S2 S2
+
+Emission Sequence: rainy rainy rainy cloudy sunny
+State Sequence: S1 S2 S3 S1 S3
+
+Emission Sequence: sunny cloudy sunny sunny cloudy
+State Sequence: S1 S2 S3 S2 S3
+
+Emission Sequence: rainy cloudy cloudy sunny cloudy
+State Sequence: S1 S2 S1 S3 S3
+
+Emission Sequence: sunny cloudy sunny sunny sunny
+State Sequence: S2 S1 S2 S1 S3
+
+Emission Sequence: cloudy rainy cloudy rainy rainy
+State Sequence: S1 S2 S2 S3 S1
+
+Emission Sequence: sunny cloudy rainy rainy cloudy
+State Sequence: S3 S1 S3 S1 S3
+
+Emission Sequence: cloudy rainy rainy cloudy sunny
+State Sequence: S2 S1 S3 S1 S2
+
+Emission Sequence: rainy rainy rainy cloudy cloudy
+State Sequence: S2 S2 S1 S2 S3
+
+Emission Sequence: sunny cloudy sunny sunny sunny
+State Sequence: S2 S1 S3 S1 S2
+
+Emission Sequence: rainy sunny rainy sunny rainy
+State Sequence: S2 S2 S3 S2 S2
+
+Emission Sequence: cloudy rainy cloudy sunny cloudy
+State Sequence: S2 S1 S3 S1 S3
+
+Emission Sequence: cloudy cloudy cloudy rainy rainy
+State Sequence: S2 S2 S3 S1 S3
+
+Emission Sequence: rainy sunny sunny sunny sunny
+State Sequence: S2 S1 S2 S3 S1
+
+Emission Sequence: sunny sunny rainy cloudy rainy
+State Sequence: S2 S3 S1 S1 S2
+
+Emission Sequence: cloudy rainy sunny cloudy cloudy
+State Sequence: S2 S1 S2 S3 S1
+
+Emission Sequence: sunny cloudy rainy cloudy rainy
+State Sequence: S2 S3 S3 S1 S2
+
+Emission Sequence: sunny sunny cloudy rainy rainy
+State Sequence: S1 S2 S1 S2 S2
+
